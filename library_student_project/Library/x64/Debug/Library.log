@@ -1,0 +1,56 @@
+﻿Build started 31.05.2017 21:17:26.
+     1>Project "D:\PROGRAMING\C\Экзамен СИ Библиотека\С9Б1_28_Хомяк_А_М_ЭкзаменБиблиотека\Library\Library.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\MVSC2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt ACTIVE_READER.cpp ADD_BOOK.cpp ADD_READER.cpp COUNT_BOOK.cpp COUNT_READERS.cpp DELETE_BOOK.cpp DELETE_READER.cpp EDIT_BOOK.cpp EDIT_READER.cpp FIND_BOOK.cpp FIND_READER.cpp LIST_BOOK.cpp LIST_READER.cpp MENU_BOOK.cpp MENU_LIBRARY.cpp MENU_READER.cpp POPULAR_BOOK.cpp SORT_BOOK.cpp SORT_READER.cpp Source.cpp FuncSetColor.cpp
+         FuncSetColor.cpp
+         Source.cpp
+         SORT_READER.cpp
+         SORT_BOOK.cpp
+         POPULAR_BOOK.cpp
+         MENU_READER.cpp
+         MENU_LIBRARY.cpp
+         MENU_BOOK.cpp
+         LIST_READER.cpp
+         LIST_BOOK.cpp
+         FIND_READER.cpp
+         FIND_BOOK.cpp
+         EDIT_READER.cpp
+         EDIT_BOOK.cpp
+         DELETE_READER.cpp
+         DELETE_BOOK.cpp
+         COUNT_READERS.cpp
+         COUNT_BOOK.cpp
+         ADD_READER.cpp
+         ADD_BOOK.cpp
+         Generating Code...
+         Compiling...
+         ACTIVE_READER.cpp
+         Generating Code...
+       Link:
+         D:\MVSC2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PROGRAMING\C\Экзамен СИ Библиотека\С9Б1_28_Хомяк_А_М_ЭкзаменБиблиотека\x64\Debug\Library.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\PROGRAMING\C\Экзамен СИ Библиотека\С9Б1_28_Хомяк_А_М_ЭкзаменБиблиотека\x64\Debug\Library.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PROGRAMING\C\Экзамен СИ Библиотека\С9Б1_28_Хомяк_А_М_ЭкзаменБиблиотека\x64\Debug\Library.lib" /MACHINE:X64 x64\Debug\ACTIVE_READER.obj
+         x64\Debug\ADD_BOOK.obj
+         x64\Debug\ADD_READER.obj
+         x64\Debug\COUNT_BOOK.obj
+         x64\Debug\COUNT_READERS.obj
+         x64\Debug\DELETE_BOOK.obj
+         x64\Debug\DELETE_READER.obj
+         x64\Debug\EDIT_BOOK.obj
+         x64\Debug\EDIT_READER.obj
+         x64\Debug\FIND_BOOK.obj
+         x64\Debug\FIND_READER.obj
+         x64\Debug\LIST_BOOK.obj
+         x64\Debug\LIST_READER.obj
+         x64\Debug\MENU_BOOK.obj
+         x64\Debug\MENU_LIBRARY.obj
+         x64\Debug\MENU_READER.obj
+         x64\Debug\POPULAR_BOOK.obj
+         x64\Debug\SORT_BOOK.obj
+         x64\Debug\SORT_READER.obj
+         x64\Debug\Source.obj
+         x64\Debug\FuncSetColor.obj
+         Library.vcxproj -> D:\PROGRAMING\C\Экзамен СИ Библиотека\С9Б1_28_Хомяк_А_М_ЭкзаменБиблиотека\x64\Debug\Library.exe
+     1>Done Building Project "D:\PROGRAMING\C\Экзамен СИ Библиотека\С9Б1_28_Хомяк_А_М_ЭкзаменБиблиотека\Library\Library.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:24.13
